@@ -94,7 +94,3 @@ The final model achieved:
 - Jaccard Score: 0.4041
 
 Analysis revealed distinctive linguistic patterns associated with different genres and identified common genre co-occurrences such as comedy-drama, comedy-romance, and crime-drama.
-
-## License
-
-[MIT](LICENSE)
