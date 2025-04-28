@@ -19,7 +19,13 @@ This project addresses the challenge of automatically predicting movie genres ba
 
 ## Dataset
 
-The project uses a dataset containing 34,886 movie entries with plot descriptions and genre labels. After preprocessing and standardization, the final dataset contains 25,381 movies categorized across 9 major genres:
+The project uses a dataset containing 34,886 movie entries with plot descriptions and genre labels.
+
+Dataset Used : https://www.kaggle.com/datasets/jrobischon/wikipedia-movie-plots?resource=download
+
+Download and place this dataset in the data/raw folder to run the code as expected.
+
+After preprocessing and standardization, the final dataset contains 25,381 movies categorized across 9 major genres:
 - Drama
 - Comedy
 - Action
